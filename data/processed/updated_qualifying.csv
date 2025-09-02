@@ -2377,3 +2377,63 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,12,7/5/25,British Grand Prix,silverstone,stroll,Lance Stroll,aston_martin,Aston_Martin_Mercedes,18,01:26.5,,
 2025,12,7/5/25,British Grand Prix,silverstone,hulkenberg,Nico HŸlkenberg,sauber,Kick Sauber_Ferrari,19,01:26.6,,
 2025,12,7/5/25,British Grand Prix,silverstone,colapinto,Franco Colapinto,alpine,Alpine_Renault,20,01:27.1,,
+2025,13,7/27/25,Belgian Grand Prix,spa,norris,Lando Norris,mclaren,McLaren-Mercedes,1,01:41.0,01:40.7,01:40.6
+2025,13,7/27/25,Belgian Grand Prix,spa,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,2,01:41.2,01:40.6,01:40.6
+2025,13,7/27/25,Belgian Grand Prix,spa,leclerc,Charles Leclerc,ferrari,Ferrari,3,01:41.6,01:41.1,01:40.9
+2025,13,7/27/25,Belgian Grand Prix,spa,verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,4,01:41.3,01:41.0,01:40.9
+2025,13,7/27/25,Belgian Grand Prix,spa,albon,Alexander Albon,williams,Williams-Mercedes,5,01:41.8,01:41.5,01:41.2
+2025,13,7/27/25,Belgian Grand Prix,spa,russell,George Russell,mercedes,Mercedes,6,01:41.8,01:41.3,01:41.3
+2025,13,7/27/25,Belgian Grand Prix,spa,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,7,01:41.8,01:41.2,01:41.3
+2025,13,7/27/25,Belgian Grand Prix,spa,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,8,01:41.6,01:41.3,01:41.3
+2025,13,7/27/25,Belgian Grand Prix,spa,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,9,01:41.7,01:41.3,01:41.3
+2025,13,7/27/25,Belgian Grand Prix,spa,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,10,01:41.9,01:41.3,01:42.4
+2025,13,7/27/25,Belgian Grand Prix,spa,ocon,Esteban Ocon,haas,Haas-Ferrari,11,01:41.9,01:41.5,
+2025,13,7/27/25,Belgian Grand Prix,spa,bearman,Oliver Bearman,haas,Haas-Ferrari,12,01:41.6,01:41.6,
+2025,13,7/27/25,Belgian Grand Prix,spa,gasly,Pierre Gasly,alpine,Alpine-Renault,13,01:41.8,01:41.6,
+2025,13,7/27/25,Belgian Grand Prix,spa,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,14,01:41.8,01:41.7,
+2025,13,7/27/25,Belgian Grand Prix,spa,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,15,01:41.7,01:41.8,
+2025,13,7/27/25,Belgian Grand Prix,spa,hamilton,Lewis Hamilton,ferrari,Ferrari,16,01:41.9,,
+2025,13,7/27/25,Belgian Grand Prix,spa,colapinto,Franco Colapinto,alpine,Alpine-Renault,17,01:42.0,,
+2025,13,7/27/25,Belgian Grand Prix,spa,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,18,01:42.1,,
+2025,13,7/27/25,Belgian Grand Prix,spa,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,19,01:42.4,,
+2025,13,7/27/25,Belgian Grand Prix,spa,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,20,01:42.5,,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,leclerc,Charles Leclerc,ferrari,Ferrari,1,01:15.6,01:15.5,01:15.4
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,2,01:15.2,01:14.9,01:15.4
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,norris,Lando Norris,mclaren,McLaren-Mercedes,3,01:15.5,01:14.9,01:15.4
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,russell,George Russell,mercedes,Mercedes,4,01:15.6,01:15.2,01:15.4
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,5,01:15.3,01:15.4,01:15.5
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,6,01:15.7,01:15.1,01:15.5
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,7,01:15.6,01:15.7,01:15.7
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,8,01:15.7,01:15.5,01:15.7
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,9,01:15.8,01:15.6,01:15.8
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,10,01:15.5,01:15.5,01:15.9
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,bearman,Oliver Bearman,haas,Haas-Ferrari,11,01:15.8,01:15.7,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,hamilton,Lewis Hamilton,ferrari,Ferrari,12,01:15.7,01:15.7,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,13,01:15.7,01:15.8,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,colapinto,Franco Colapinto,alpine,Alpine-Renault,14,01:15.9,01:16.2,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,15,01:15.8,01:16.4,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,16,01:15.9,,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,gasly,Pierre Gasly,alpine,Alpine-Renault,17,01:16.0,,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,ocon,Esteban Ocon,haas,Haas-Ferrari,18,01:16.0,,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,19,01:16.1,,
+2025,14,8/2/25,Hungarian Grand Prix,hungaroring,albon,Alexander Albon,williams,Williams-Mercedes,20,01:16.2,,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,1,01:09.3,01:09.0,01:08.7
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,norris,Lando Norris,mclaren,McLaren-Mercedes,2,01:09.5,01:08.9,01:08.7
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,3,01:09.7,01:09.1,01:08.9
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,4,01:10.0,01:09.4,01:09.2
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,russell,George Russell,mercedes,Mercedes,5,01:09.7,01:09.3,01:09.3
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,leclerc,Charles Leclerc,ferrari,Ferrari,6,01:09.9,01:09.3,01:09.3
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,hamilton,Lewis Hamilton,ferrari,Ferrari,7,01:09.9,01:09.3,01:09.4
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,8,01:09.8,01:09.4,01:09.5
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,9,01:10.0,01:09.5,01:09.5
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,10,01:10.0,01:09.4,01:09.6
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,11,01:09.8,01:09.5,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,12,01:10.0,01:09.6,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,01:10.0,01:09.6,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,gasly,Pierre Gasly,alpine,Alpine-Renault,14,01:09.9,01:09.6,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,albon,Alexander Albon,williams,Williams-Mercedes,15,01:09.8,01:09.7,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,colapinto,Franco Colapinto,alpine,Alpine-Renault,16,01:10.1,,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,17,01:10.2,,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,ocon,Esteban Ocon,haas,Haas-Ferrari,18,01:10.2,,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,bearman,Oliver Bearman,haas,Haas-Ferrari,19,01:10.3,,
+2025,15,8/30/25,Dutch Grand Prix,zandvoort,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,20,,,
