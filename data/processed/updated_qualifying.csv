@@ -2437,3 +2437,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,15,8/30/25,Dutch Grand Prix,zandvoort,ocon,Esteban Ocon,haas,Haas-Ferrari,18,01:10.2,,
 2025,15,8/30/25,Dutch Grand Prix,zandvoort,bearman,Oliver Bearman,haas,Haas-Ferrari,19,01:10.3,,
 2025,15,8/30/25,Dutch Grand Prix,zandvoort,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,20,,,
+2025,16,9/6/25,Italian Grand Prix,monza,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,1,01:19.5,01:19.1,01:18.8
+2025,16,9/6/25,Italian Grand Prix,monza,norris,Lando Norris,mclaren,McLaren-Mercedes,2,01:19.5,01:19.3,01:18.9
+2025,16,9/6/25,Italian Grand Prix,monza,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,01:19.7,01:19.3,01:19.0
+2025,16,9/6/25,Italian Grand Prix,monza,leclerc,Charles Leclerc,ferrari,Ferrari,4,01:19.7,01:19.3,01:19.0
+2025,16,9/6/25,Italian Grand Prix,monza,hamilton,Lewis Hamilton,ferrari,Ferrari,5,01:19.8,01:19.4,01:19.1
+2025,16,9/6/25,Italian Grand Prix,monza,russell,George Russell,mercedes,Mercedes,6,01:19.4,01:19.3,01:19.2
+2025,16,9/6/25,Italian Grand Prix,monza,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,7,01:19.7,01:19.2,01:19.2
+2025,16,9/6/25,Italian Grand Prix,monza,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,8,01:19.7,01:19.3,01:19.4
+2025,16,9/6/25,Italian Grand Prix,monza,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,9,01:19.7,01:19.4,01:19.4
+2025,16,9/6/25,Italian Grand Prix,monza,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,10,01:19.6,01:19.4,01:19.5
+2025,16,9/6/25,Italian Grand Prix,monza,bearman,Oliver Bearman,haas,Haas-Ferrari,11,01:19.7,01:19.4,
+2025,16,9/6/25,Italian Grand Prix,monza,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,12,01:19.8,01:19.5,
+2025,16,9/6/25,Italian Grand Prix,monza,sainz,Carlos Sainz,williams,Williams-Mercedes,13,01:19.6,01:19.5,
+2025,16,9/6/25,Italian Grand Prix,monza,albon,Alexander Albon,williams,Williams-Mercedes,14,01:19.8,01:19.6,
+2025,16,9/6/25,Italian Grand Prix,monza,ocon,Esteban Ocon,haas,Haas-Ferrari,15,01:19.8,01:19.7,
+2025,16,9/6/25,Italian Grand Prix,monza,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,16,01:19.9,,
+2025,16,9/6/25,Italian Grand Prix,monza,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,17,01:19.9,,
+2025,16,9/6/25,Italian Grand Prix,monza,colapinto,Franco Colapinto,alpine,Alpine-Renault,18,01:20.0,,
+2025,16,9/6/25,Italian Grand Prix,monza,gasly,Pierre Gasly,alpine,Alpine-Renault,19,01:20.1,,
+2025,16,9/6/25,Italian Grand Prix,monza,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,20,01:20.3,,
