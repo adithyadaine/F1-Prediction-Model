@@ -1,21 +1,21 @@
 Driver,Grid,Team,Probability
-Oscar Piastri,1,McLaren Mercedes,0.766345
-Lando Norris,2,McLaren Mercedes,0.155701
-Max Verstappen,3,Red Bull Racing Honda RBPT,0.017953
-George Russell,5,Mercedes,0.013513
-Charles Leclerc,6,Ferrari,0.008837
-Lewis Hamilton,7,Ferrari,0.003967
-Isack Hadjar,4,Racing Bulls Honda RBPT,0.003234
-Yuki Tsunoda,12,Red Bull Racing Honda RBPT,0.002367
-Alexander Albon,15,Williams Mercedes,0.002340
-Fernando Alonso,10,Aston Martin Aramco Mercedes,0.002340
-Kimi Antonelli,11,Mercedes,0.002340
-Oliver Bearman,19,Haas Ferrari,0.002340
-Gabriel Bortoleto,13,Kick Sauber Ferrari,0.002340
-Franco Colapinto,16,Alpine Renault,0.002340
-Pierre Gasly,14,Alpine Renault,0.002340
-Nico Hulkenberg,17,Kick Sauber Ferrari,0.002340
-Liam Lawson,8,Racing Bulls Honda RBPT,0.002340
-Esteban Ocon,18,Haas Ferrari,0.002340
-Carlos Sainz,9,Williams Mercedes,0.002340
-Lance Stroll,20,Aston Martin Aramco Mercedes,0.002340
+Oscar Piastri,1,mclaren,0.674974
+Lando Norris,2,mclaren,0.246693
+Max Verstappen,3,red_bull,0.026927
+George Russell,5,mercedes,0.012133
+Charles Leclerc,6,ferrari,0.004740
+Isack Hadjar,4,rb,0.004277
+Lewis Hamilton,7,ferrari,0.002948
+Alexander Albon,15,mercedes,0.002101
+Fernando Alonso,10,mercedes,0.002101
+Kimi Antonelli,11,mercedes,0.002101
+Oliver Bearman,19,ferrari,0.002101
+Gabriel Bortoleto,13,ferrari,0.002101
+Franco Colapinto,16,alpine,0.002101
+Pierre Gasly,14,alpine,0.002101
+Nico Hulkenberg,17,ferrari,0.002101
+Liam Lawson,8,rb,0.002101
+Esteban Ocon,18,ferrari,0.002101
+Carlos Sainz,9,mercedes,0.002101
+Lance Stroll,20,mercedes,0.002101
+Yuki Tsunoda,12,red_bull,0.002101
