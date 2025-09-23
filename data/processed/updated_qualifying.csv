@@ -2457,3 +2457,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,16,9/6/25,Italian Grand Prix,monza,colapinto,Franco Colapinto,alpine,Alpine-Renault,18,01:20.0,,
 2025,16,9/6/25,Italian Grand Prix,monza,gasly,Pierre Gasly,alpine,Alpine-Renault,19,01:20.1,,
 2025,16,9/6/25,Italian Grand Prix,monza,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,20,01:20.3,,
+2025,17,9/20/25,Azerbaijan GP,baku,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,1,01:41.3,01:41.3,01:41.1
+2025,17,9/20/25,Azerbaijan GP,baku,sainz,Carlos Sainz,williams,Williams-Mercedes,2,01:42.6,01:41.7,01:41.6
+2025,17,9/20/25,Azerbaijan GP,baku,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,3,01:42.3,01:41.5,01:41.7
+2025,17,9/20/25,Azerbaijan GP,baku,antonelli,Kimi Antonelli,mercedes,Mercedes,4,01:42.2,01:41.5,01:41.7
+2025,17,9/20/25,Azerbaijan GP,baku,russell,George Russell,mercedes,Mercedes,5,01:41.6,01:41.5,01:42.1
+2025,17,9/20/25,Azerbaijan GP,baku,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,6,01:42.3,01:41.8,01:42.1
+2025,17,9/20/25,Azerbaijan GP,baku,norris,Lando Norris,mclaren,McLaren-Mercedes,7,01:41.3,01:41.4,01:42.2
+2025,17,9/20/25,Azerbaijan GP,baku,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,8,01:41.7,01:41.6,01:42.4
+2025,17,9/20/25,Azerbaijan GP,baku,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,9,01:41.8,01:41.4,0
+2025,17,9/20/25,Azerbaijan GP,baku,leclerc,Charles Leclerc,ferrari,Ferrari,10,01:41.5,01:41.5,0
+2025,17,9/20/25,Azerbaijan GP,baku,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,11,01:42.2,01:41.9,
+2025,17,9/20/25,Azerbaijan GP,baku,hamilton,Lewis Hamilton,ferrari,Ferrari,12,01:41.8,01:42.2,
+2025,17,9/20/25,Azerbaijan GP,baku,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,01:42.5,01:42.3,
+2025,17,9/20/25,Azerbaijan GP,baku,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,14,01:42.1,01:43.1,
+2025,17,9/20/25,Azerbaijan GP,baku,bearman,Oliver Bearman,haas,Haas-Ferrari,15,01:42.7,0,
+2025,17,9/20/25,Azerbaijan GP,baku,colapinto,Franco Colapinto,alpine,Alpine-Renault,16,01:42.8,,
+2025,17,9/20/25,Azerbaijan GP,baku,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,17,01:42.9,,
+2025,17,9/20/25,Azerbaijan GP,baku,gasly,Pierre Gasly,alpine,Alpine-Renault,18,01:43.1,,
+2025,17,9/20/25,Azerbaijan GP,baku,albon,Alexander Albon,williams,Williams-Mercedes,19,01:43.8,,
+2025,17,9/20/25,Azerbaijan GP,baku,ocon,Esteban Ocon,haas,Haas-Ferrari,20,,,
