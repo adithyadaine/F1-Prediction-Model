@@ -2435,9 +2435,9 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,15,8/31/25,Dutch Grand Prix,zandvoort,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,15,0,19,16,21,3,15
 2025,15,8/31/25,Dutch Grand Prix,zandvoort,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,11,16,0,19,16,21,3,15
 2025,15,8/31/25,Dutch Grand Prix,zandvoort,gasly,Pierre Gasly,alpine,Alpine-Renault,14,17,0,19,16,21,3,15
-2025,15,8/31/25,Dutch Grand Prix,zandvoort,norris,Lando Norris,mclaren,McLaren-Mercedes,2,NC,0,19,16,21,3,15
-2025,15,8/31/25,Dutch Grand Prix,zandvoort,leclerc,Charles Leclerc,ferrari,Ferrari,6,NC,0,19,16,21,3,15
-2025,15,8/31/25,Dutch Grand Prix,zandvoort,hamilton,Lewis Hamilton,ferrari,Ferrari,7,NC,0,19,16,21,3,15
+2025,15,8/31/25,Dutch Grand Prix,zandvoort,norris,Lando Norris,mclaren,McLaren-Mercedes,2,18,0,19,16,21,3,15
+2025,15,8/31/25,Dutch Grand Prix,zandvoort,leclerc,Charles Leclerc,ferrari,Ferrari,6,19,0,19,16,21,3,15
+2025,15,8/31/25,Dutch Grand Prix,zandvoort,hamilton,Lewis Hamilton,ferrari,Ferrari,7,20,0,19,16,21,3,15
 2025,16,9/7/25,Italian Grand Prix,monza,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,1,1,25,27,22,30,0,13
 2025,16,9/7/25,Italian Grand Prix,monza,norris,Lando Norris,mclaren,McLaren-Mercedes,4,2,18,27,22,30,0,13
 2025,16,9/7/25,Italian Grand Prix,monza,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,3,15,27,22,30,0,13
@@ -2456,5 +2456,25 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,16,9/7/25,Italian Grand Prix,monza,gasly,Pierre Gasly,alpine,Alpine-Renault,16,16,0,27,22,30,0,13
 2025,16,9/7/25,Italian Grand Prix,monza,colapinto,Franco Colapinto,alpine,Alpine-Renault,17,17,0,27,22,30,0,13
 2025,16,9/7/25,Italian Grand Prix,monza,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,18,18,0,27,22,30,0,13
-2025,16,9/7/25,Italian Grand Prix,monza,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,19,NC,0,27,22,30,0,13
-2025,16,9/7/25,Italian Grand Prix,monza,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,20,NC,0,27,22,30,0,13
+2025,16,9/7/25,Italian Grand Prix,monza,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,19,19,0,27,22,30,0,13
+2025,16,9/7/25,Italian Grand Prix,monza,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,20,20,0,27,22,30,0,13
+2025,17,9/21/25,Azerbaijan GP,baku,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,1,1,25,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,russell,George Russell,mercedes,Mercedes,5,2,18,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,sainz,Carlos Sainz,williams,Williams-Mercedes,2,3,15,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,antonelli,Kimi Antonelli,mercedes,Mercedes,4,4,12,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,3,5,10,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,6,6,8,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,norris,Lando Norris,mclaren,McLaren-Mercedes,7,7,6,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,hamilton,Lewis Hamilton,ferrari,Ferrari,12,8,4,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,leclerc,Charles Leclerc,ferrari,Ferrari,10,9,2,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,8,10,1,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,11,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,bearman,Oliver Bearman,haas,Haas-Ferrari,15,12,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,albon,Alexander Albon,williams,Williams-Mercedes,19,13,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,ocon,Esteban Ocon,haas,Haas-Ferrari,20,14,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,11,15,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,17,16,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,14,17,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,gasly,Pierre Gasly,alpine,Alpine-Renault,18,18,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,colapinto,Franco Colapinto,alpine,Alpine-Renault,16,19,0,21,17,21,0,50
+2025,17,9/21/25,Azerbaijan GP,baku,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,9,20,0,21,17,21,0,50
