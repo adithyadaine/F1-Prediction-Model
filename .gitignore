@@ -1,2 +1,6 @@
 # Ignore Python-related files and directories
 .DS_Store
+
+# Ignore Jupyter Notebook checkpoints and temporary files
+.ipynb_checkpoints
+test_case.ipynb
