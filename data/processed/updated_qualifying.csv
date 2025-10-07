@@ -2477,3 +2477,24 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,17,9/20/25,Azerbaijan GP,baku,gasly,Pierre Gasly,alpine,Alpine-Renault,18,01:43.1,,
 2025,17,9/20/25,Azerbaijan GP,baku,albon,Alexander Albon,williams,Williams-Mercedes,19,01:43.8,,
 2025,17,9/20/25,Azerbaijan GP,baku,ocon,Esteban Ocon,haas,Haas-Ferrari,20,,,
+2025,18,45934,Singapore GP,marina_bay,russell,George Russell,mercedes,Mercedes,1,01:29.9,01:29.6,01:29.2
+2025,18,45934,Singapore GP,marina_bay,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,2,01:30.0,01:29.6,01:29.3
+2025,18,45934,Singapore GP,marina_bay,piastri,Oscar Piastri,mclaren,McLaren Mercedes,3,01:30.3,01:29.8,01:29.5
+2025,18,45934,Singapore GP,marina_bay,antonelli,Kimi Antonelli,mercedes,Mercedes,4,01:30.0,01:29.6,01:29.5
+2025,18,45934,Singapore GP,marina_bay,norris,Lando Norris,mclaren,McLaren Mercedes,5,01:29.9,01:29.8,01:29.6
+2025,18,45934,Singapore GP,marina_bay,hamilton,Lewis Hamilton,ferrari,Ferrari,6,01:29.8,01:29.9,01:29.7
+2025,18,45934,Singapore GP,marina_bay,leclerc,Charles Leclerc,ferrari,Ferrari,7,01:30.4,01:29.9,01:29.8
+2025,18,45934,Singapore GP,marina_bay,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,8,01:30.2,01:30.0,01:29.8
+2025,18,45934,Singapore GP,marina_bay,bearman,Oliver Bearman,haas,Haas Ferrari,9,01:30.4,01:30.1,01:29.9
+2025,18,45934,Singapore GP,marina_bay,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco Mercedes,10,01:30.7,01:30.1,01:30.0
+2025,18,45934,Singapore GP,marina_bay,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,11,01:30.7,01:30.1,
+2025,18,45934,Singapore GP,marina_bay,albon,Alexander Albon,williams,Williams Mercedes,12,01:30.2,,
+2025,18,45934,Singapore GP,marina_bay,sainz,Carlos Sainz,williams,Williams Mercedes,13,01:30.2,,
+2025,18,45934,Singapore GP,marina_bay,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,14,01:30.7,01:30.3,
+2025,18,45934,Singapore GP,marina_bay,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,15,01:30.6,01:30.4,
+2025,18,45934,Singapore GP,marina_bay,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,01:30.8,,
+2025,18,45934,Singapore GP,marina_bay,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,17,01:30.9,,
+2025,18,45934,Singapore GP,marina_bay,colapinto,Franco Colapinto,alpine,Alpine Renault,18,01:31.0,,
+2025,18,45934,Singapore GP,marina_bay,ocon,Esteban Ocon,haas,Haas Ferrari,19,01:31.0,,
+2025,18,45934,Singapore GP,marina_bay,gasly,Pierre Gasly,alpine,Alpine Renault,20,01:31.3,,
+,,,,,,,,,,,,

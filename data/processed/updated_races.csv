@@ -2478,3 +2478,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,17,9/21/25,Azerbaijan GP,baku,gasly,Pierre Gasly,alpine,Alpine-Renault,18,18,0,21,17,21,0,50
 2025,17,9/21/25,Azerbaijan GP,baku,colapinto,Franco Colapinto,alpine,Alpine-Renault,16,19,0,21,17,21,0,50
 2025,17,9/21/25,Azerbaijan GP,baku,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,9,20,0,21,17,21,0,50
+2025,18,10/5/25,Singapore GP,marina_bay,russell,George Russell,mercedes,Mercedes,1,1,25,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,2,2,18,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,norris,Lando Norris,mclaren,McLaren Mercedes,5,3,15,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,piastri,Oscar Piastri,mclaren,McLaren Mercedes,3,4,12,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,antonelli,Kimi Antonelli,mercedes,Mercedes,4,5,10,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,leclerc,Charles Leclerc,ferrari,Ferrari,7,6,8,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,hamilton,Lewis Hamilton,ferrari,Ferrari,6,7,6,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco Mercedes,10,8,4,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,bearman,Oliver Bearman,haas,Haas Ferrari,9,9,2,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,sainz,Carlos Sainz,williams,Williams Mercedes,18,10,1,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,8,11,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,13,12,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,15,13,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,albon,Alexander Albon,williams,Williams Mercedes,19,14,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,12,15,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,colapinto,Franco Colapinto,alpine,Alpine Renault,16,16,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,14,17,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,ocon,Esteban Ocon,haas,Haas Ferrari,17,18,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,11,19,0,28,26,31,0,5
+2025,18,10/5/25,Singapore GP,marina_bay,gasly,Pierre Gasly,alpine,Alpine Renault,20,20,0,28,26,31,0,5
