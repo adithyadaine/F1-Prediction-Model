@@ -4,3 +4,4 @@
 # Ignore Jupyter Notebook checkpoints and temporary files
 .ipynb_checkpoints
 test_case.ipynb
+config.json
