@@ -2498,3 +2498,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,18,10/5/25,Singapore GP,marina_bay,ocon,Esteban Ocon,haas,Haas Ferrari,17,18,0,28,26,31,0,5
 2025,18,10/5/25,Singapore GP,marina_bay,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,11,19,0,28,26,31,0,5
 2025,18,10/5/25,Singapore GP,marina_bay,gasly,Pierre Gasly,alpine,Alpine Renault,20,20,0,28,26,31,0,5
+2025,19,10/19/25,United States GP,americas,max_verstappen,Max Verstappen,red_bull,Red Bull Racing Honda RBPT,1,1,25,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,norris,Lando Norris,mclaren,McLaren Mercedes,2,2,18,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,leclerc,Charles Leclerc,ferrari,Ferrari,3,3,15,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,hamilton,Lewis Hamilton,ferrari,Ferrari,5,4,12,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,piastri,Oscar Piastri,mclaren,McLaren Mercedes,6,5,10,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,russell,George Russell,mercedes,Mercedes,4,6,8,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing Honda RBPT,13,7,6,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,11,8,4,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,bearman,Oliver Bearman,haas,Haas Ferrari,8,9,2,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,alonso,Fernando Alonso,alpine,Alpine Renault,10,10,1,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,12,11,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,20,12,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,antonelli,Kimi Antonelli,mercedes,Mercedes,7,13,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,albon,Alexander Albon,williams,Williams Mercedes,18,14,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,ocon,Esteban Ocon,haas,Haas Ferrari,17,15,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,19,16,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,colapinto,Franco Colapinto,alpine,Alpine Renault,15,17,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,18,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,gasly,Pierre Gasly,alpine,Alpine Renault,14,19,0,31,28,33,0,10
+2025,19,10/19/25,United States GP,americas,sainz,Carlos Sainz,williams,Williams Mercedes,9,20,0,31,28,33,0,10
