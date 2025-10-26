@@ -4,4 +4,7 @@
 # Ignore Jupyter Notebook checkpoints and temporary files
 .ipynb_checkpoints
 test_case.ipynb
+GCB_inc_sprint.ipynb
+
 config.json
+
