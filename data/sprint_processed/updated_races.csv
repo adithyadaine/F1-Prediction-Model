@@ -2598,77 +2598,46 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,19,10/19/25,United States Grand Prix,americas,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,18,0,31,28,33,0,10
 2025,19,10/19/25,United States Grand Prix,americas,gasly,Pierre Gasly,alpine,Alpine Renault,14,19,0,31,28,33,0,10
 2025,19,10/19/25,United States Grand Prix,americas,sainz,Carlos Sainz,williams,Williams Mercedes,9,20,0,31,28,33,0,10
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,norris,Lando Norris,mclaren,McLaren-Mercedes,1,1,25,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,leclerc,Charles Leclerc,ferrari,Ferrari,2,2,18,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,max_verstappen,Max Verstappen,red_bull,Red Bull Racing Honda RBPT,5,3,15,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,bearman,Oliver Bearman,haas,Haas Ferrari,10,4,12,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,8,5,10,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,antonelli,Kimi Antonelli,mercedes,Mercedes,6,6,8,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,russell,George Russell,mercedes,Mercedes,4,7,6,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,hamilton,Lewis Hamilton,ferrari,Ferrari,3,8,4,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,ocon,Esteban Ocon,haas,Haas Ferrari,12,9,2,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,10,1,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing Honda RBPT,11,11,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,albon,Alexander Albon,williams,Williams Mercedes,17,12,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,9,13,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,19,14,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,gasly,Pierre Gasly,alpine,Alpine Renault,18,15,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,colapinto,Franco Colapinto,alpine,Alpine Renault,20,16,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,sainz,Carlos Sainz,williams,Williams Mercedes,7,17,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco Mercedes,14,18,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,13,19,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,15,20,0,25,23,26,0,9
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,norris,Lando Norris,mclaren,McLaren-Mercedes,1,1,8,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,antonelli,Kimi Antonelli,mercedes,Mercedes,2,2,7,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,russell,George Russell,mercedes,Mercedes,4,3,6,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,max_verstappen,Max Verstappen,red_bull,Red Bull Racing Honda RBPT,6,4,5,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,leclerc,Charles Leclerc,ferrari,Ferrari,8,5,4,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco Mercedes,5,6,3,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,hamilton,Lewis Hamilton,ferrari,Ferrari,11,7,2,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,gasly,Pierre Gasly,alpine,Alpine Renault,13,8,1,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,7,9,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,9,10,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,ocon,Esteban Ocon,haas,Haas Ferrari,19,11,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,bearman,Oliver Bearman,haas,Haas Ferrari,15,12,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,17,13,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing Honda RBPT,18,14,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,sainz,Carlos Sainz,williams,Williams Mercedes,20,15,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,10,16,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,albon,Alexander Albon,williams,Williams Mercedes,12,17,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,14,18,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,19,0,24,21,27,2,20
+2025,21,11/8/25,Brazilian Grand Prix - Sprint,interlagos,colapinto,Franco Colapinto,alpine,Alpine Renault,16,20,0,24,21,27,2,20
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,

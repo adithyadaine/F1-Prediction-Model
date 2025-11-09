@@ -2518,23 +2518,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,19,10/19/25,United States GP,americas,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,18,0,31,28,33,0,10
 2025,19,10/19/25,United States GP,americas,gasly,Pierre Gasly,alpine,Alpine Renault,14,19,0,31,28,33,0,10
 2025,19,10/19/25,United States GP,americas,sainz,Carlos Sainz,williams,Williams Mercedes,9,20,0,31,28,33,0,10
-2025,20,10/26/25,Mexico GP,rodriguez,norris,Lando Norris,mclaren,McLaren-Mercedes,1,1,25,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,leclerc,Charles Leclerc,ferrari,Ferrari,2,2,18,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,max_verstappen,Max Verstappen,red_bull,Red Bull Racing Honda RBPT,5,3,15,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,bearman,Oliver Bearman,haas,Haas Ferrari,10,4,12,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,8,5,10,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,antonelli,Kimi Antonelli,mercedes,Mercedes,6,6,8,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,russell,George Russell,mercedes,Mercedes,4,7,6,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,hamilton,Lewis Hamilton,ferrari,Ferrari,3,8,4,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,ocon,Esteban Ocon,haas,Haas Ferrari,12,9,2,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,10,1,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing Honda RBPT,11,11,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,albon,Alexander Albon,williams,Williams Mercedes,17,12,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,9,13,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,19,14,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,gasly,Pierre Gasly,alpine,Alpine Renault,18,15,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,colapinto,Franco Colapinto,alpine,Alpine Renault,20,16,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,sainz,Carlos Sainz,williams,Williams Mercedes,7,17,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco Mercedes,14,18,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,13,19,0,25,23,26,0,9
-2025,20,10/26/25,Mexico GP,rodriguez,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,15,20,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,norris,Lando Norris,mclaren,McLaren-Mercedes,1,1,25,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,leclerc,Charles Leclerc,ferrari,Ferrari,2,2,18,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,max_verstappen,Max Verstappen,red_bull,Red Bull Racing Honda RBPT,5,3,15,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,bearman,Oliver Bearman,haas,Haas Ferrari,10,4,12,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,8,5,10,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,antonelli,Kimi Antonelli,mercedes,Mercedes,6,6,8,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,russell,George Russell,mercedes,Mercedes,4,7,6,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,hamilton,Lewis Hamilton,ferrari,Ferrari,3,8,4,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,ocon,Esteban Ocon,haas,Haas Ferrari,12,9,2,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber Ferrari,16,10,1,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing Honda RBPT,11,11,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,albon,Alexander Albon,williams,Williams Mercedes,17,12,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,hadjar,Isack Hadjar,racing_bulls,Racing Bulls Honda RBPT,9,13,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,stroll,Lance Stroll,aston_martin,Aston Martin Aramco Mercedes,19,14,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,gasly,Pierre Gasly,alpine,Alpine Renault,18,15,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,colapinto,Franco Colapinto,alpine,Alpine Renault,20,16,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,sainz,Carlos Sainz,williams,Williams Mercedes,7,17,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco Mercedes,14,18,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber Ferrari,13,19,0,25,23,26,0,9
+2025,20,10/26/25,Mexico Grand Prix,rodriguez,lawson,Liam Lawson,racing_bulls,Racing Bulls Honda RBPT,15,20,0,25,23,26,0,9
