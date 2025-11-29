@@ -1,10 +1,40 @@
 # Ignore Python-related files and directories
 .DS_Store
 
-# Ignore Jupyter Notebook checkpoints and temporary files
-.ipynb_checkpoints
-test_case.ipynb
-GCB_inc_sprint.ipynb
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+htmlcov/
+.pytest_cache/
+.mypy_cache/
 
-config.json
+# IDE-specific ignores
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS-specific ignores
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
 
