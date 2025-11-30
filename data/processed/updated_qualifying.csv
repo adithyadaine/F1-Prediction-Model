@@ -2577,3 +2577,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,22,11/21/25,Las Vegas Grand Prix,vegas,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,18,01:35.2,,
 2025,22,11/21/25,Las Vegas Grand Prix,vegas,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,19,01:35.5,,
 2025,22,11/21/25,Las Vegas Grand Prix,vegas,hamilton,Lewis Hamilton,ferrari,Ferrari,20,01:36.0,,
+2025,23,11/29/25,Qatar Grand Prix,losail,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,1,01:20.2,01:19.7,01:19.4
+2025,23,11/29/25,Qatar Grand Prix,losail,norris,Lando Norris,mclaren,McLaren-Mercedes,2,01:20.2,01:19.9,01:19.5
+2025,23,11/29/25,Qatar Grand Prix,losail,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,3,01:20.5,01:20.0,01:19.7
+2025,23,11/29/25,Qatar Grand Prix,losail,russell,George Russell,mercedes,Mercedes,4,01:20.1,01:20.2,01:19.7
+2025,23,11/29/25,Qatar Grand Prix,losail,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,5,01:20.6,01:20.1,01:19.8
+2025,23,11/29/25,Qatar Grand Prix,losail,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,6,01:20.6,01:20.3,01:20.1
+2025,23,11/29/25,Qatar Grand Prix,losail,sainz,Carlos Sainz,williams,Williams-Mercedes,7,01:20.5,01:20.3,01:20.3
+2025,23,11/29/25,Qatar Grand Prix,losail,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,8,01:20.6,01:20.2,01:20.4
+2025,23,11/29/25,Qatar Grand Prix,losail,gasly,Pierre Gasly,alpine,Alpine-Renault,9,01:20.7,01:20.3,01:20.5
+2025,23,11/29/25,Qatar Grand Prix,losail,leclerc,Charles Leclerc,ferrari,Ferrari,10,01:20.6,01:20.3,01:20.6
+2025,23,11/29/25,Qatar Grand Prix,losail,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,11,01:20.6,01:20.4,
+2025,23,11/29/25,Qatar Grand Prix,losail,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,12,01:20.5,01:20.4,
+2025,23,11/29/25,Qatar Grand Prix,losail,bearman,Oliver Bearman,haas,Haas-Ferrari,13,01:20.5,01:20.4,
+2025,23,11/29/25,Qatar Grand Prix,losail,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,14,01:20.7,01:20.5,
+2025,23,11/29/25,Qatar Grand Prix,losail,albon,Alexander Albon,williams,Williams-Mercedes,15,01:20.6,01:20.6,
+2025,23,11/29/25,Qatar Grand Prix,losail,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,16,01:20.8,,
+2025,23,11/29/25,Qatar Grand Prix,losail,ocon,Esteban Ocon,haas,Haas-Ferrari,17,01:20.9,,
+2025,23,11/29/25,Qatar Grand Prix,losail,hamilton,Lewis Hamilton,ferrari,Ferrari,18,01:20.9,,
+2025,23,11/29/25,Qatar Grand Prix,losail,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,19,01:21.1,,
+2025,23,11/29/25,Qatar Grand Prix,losail,colapinto,Franco Colapinto,alpine,Alpine-Renault,20,01:21.1,,
